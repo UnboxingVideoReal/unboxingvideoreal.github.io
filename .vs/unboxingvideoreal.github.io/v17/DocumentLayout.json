@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\notun\\Documents\\GitHub\\unboxingvideoreal.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\notun\\Documents\\GitHub\\unboxingvideoreal.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\notun\\Documents\\GitHub\\unboxingvideoreal.github.io\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\notun\\Documents\\GitHub\\unboxingvideoreal.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\notun\\Documents\\GitHub\\unboxingvideoreal.github.io\\lore.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\notun\\Documents\\GitHub\\unboxingvideoreal.github.io\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "recent.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-08T05:42:28.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T05:42:28.37Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "interests.html",
               "ViewState": "AgIAAEkAAAAAAAAAAAAAAFIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-08T05:42:25.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T05:42:25.003Z"
             },
             {
               "$type": "Document",
@@ -101,18 +99,17 @@
               "RelativeToolTip": "lore.html",
               "ViewState": "AgIAACoAAAAAAAAAAAAiwC4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-08T05:42:20.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T05:42:20.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "projects.html",
               "DocumentMoniker": "C:\\Users\\notun\\Documents\\GitHub\\unboxingvideoreal.github.io\\projects.html",
               "RelativeDocumentMoniker": "projects.html",
               "ToolTip": "C:\\Users\\notun\\Documents\\GitHub\\unboxingvideoreal.github.io\\projects.html",
               "RelativeToolTip": "projects.html",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC0AAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-08T05:42:07.858Z",
               "EditorCaption": ""
@@ -127,8 +124,7 @@
               "RelativeToolTip": "simple-tooltips.css",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwBsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-08T05:36:01.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T05:36:01.982Z"
             },
             {
               "$type": "Document",
@@ -140,8 +136,7 @@
               "RelativeToolTip": "newAssets\\igottastartcomingupwithrealnames.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-06T01:34:50.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T01:34:50.547Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAABkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-06T00:36:09.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T00:36:09.228Z"
             }
           ]
         }
