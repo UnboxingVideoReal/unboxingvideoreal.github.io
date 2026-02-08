@@ -1,0 +1,65 @@
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+:any-link {
+	color: darkgrey;
+}
+
+.big {
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+}
+.main {
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+	float: left;
+	width: 66%;
+	height: 415px;
+	overflow: auto;
+	max-height: 415px;
+}
+.recent {
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+	float: right;
+	width: 32%;
+	height: 415px;
+	overflow: auto;
+	max-height: 415px;
+}
+.new {
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+	min-height: 50px;
+	width: 99%;
+	padding: 5px;
+	max-width: 96.2%;
+	text-align: left;
+}
+.new2 {
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+	min-height: 50px;
+	width: 100%;
+	padding: 5px;
+	max-width: 98.2%;
+	text-align: left;
+}
+
+.icon {
+	vertical-align: middle;
+}
+p, br {
+	clear: both;
+}
+li {
+	text-align: left;
+}
