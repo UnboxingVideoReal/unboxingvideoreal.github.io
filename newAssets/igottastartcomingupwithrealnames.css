@@ -19,9 +19,9 @@ body {
 	border-style: solid;
 	float: left;
 	width: 66%;
-	height: 415px;
+	height: 440px;
 	overflow: auto;
-	max-height: 415px;
+	max-height: 440px;
 }
 .recent {
 	border-color: white;
@@ -29,10 +29,26 @@ body {
 	border-style: solid;
 	float: right;
 	width: 32%;
-	height: 415px;
+	height: 440px;
 	overflow: auto;
-	max-height: 415px;
+	max-height: 440px;
 }
+.stuff {
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+	float: inherit;
+	width: 100% - 2px;
+	height: 100% + 2px;
+	overflow: auto;
+	max-height: 100% + 2px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	flex-direction: column;
+}
+
 .new {
 	border-color: white;
 	border-width: 2px;
@@ -53,6 +69,11 @@ body {
 	max-width: 98.2%;
 	text-align: left;
 }
+#browserWidth 
+{
+	width: 90%;
+	
+}
 
 .icon {
 	vertical-align: middle;
@@ -62,4 +83,8 @@ p, br {
 }
 li {
 	text-align: left;
+}
+h6{
+	padding: 0px;
+	margin: 0px;
 }
